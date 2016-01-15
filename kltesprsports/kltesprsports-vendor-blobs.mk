@@ -21,6 +21,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kltesprsports/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/kltesprsports/proprietary/lib/hw/flp.default.so:system/lib/hw/flp.default.so \
     vendor/samsung/kltesprsports/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/samsung/kltesprsports/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/samsung/kltesprsports/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/samsung/kltesprsports/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/kltesprsports/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/samsung/kltesprsports/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
