@@ -18,6 +18,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kltesprsports/proprietary/vendor/firmware/bcm4350.hcd:system/vendor/firmware/bcm4350.hcd \
     vendor/samsung/kltesprsports/proprietary/vendor/firmware/BT_FW_VER_BCM4354_003.001.012.0209.0328_K_SPR_VM_ORC.hcd:system/vendor/firmware/BT_FW_VER_BCM4354_003.001.012.0209.0328_K_SPR_VM_ORC.hcd \
     vendor/samsung/kltesprsports/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
+    vendor/samsung/kltesprsports/proprietary/etc/clatd.conf:system/etc/clatd.conf \
+    vendor/samsung/kltesprsports/proprietary/etc/flp.conf:system/etc/flp.conf \
+    vendor/samsung/kltesprsports/proprietary/etc/gps.conf:system/etc/gps.conf \
+    vendor/samsung/kltesprsports/proprietary/etc/sap.conf:system/etc/sap.conf \
+    vendor/samsung/kltesprsports/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/samsung/kltesprsports/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/samsung/kltesprsports/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/kltesprsports/proprietary/lib/hw/flp.default.so:system/lib/hw/flp.default.so \
     vendor/samsung/kltesprsports/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
